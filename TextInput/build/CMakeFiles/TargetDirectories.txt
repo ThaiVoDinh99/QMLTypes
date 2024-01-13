@@ -1,0 +1,4 @@
+/home/thaivodinh/Music/QMLTypes/TextInput/build/CMakeFiles/ExeTextInput.dir
+/home/thaivodinh/Music/QMLTypes/TextInput/build/CMakeFiles/edit_cache.dir
+/home/thaivodinh/Music/QMLTypes/TextInput/build/CMakeFiles/rebuild_cache.dir
+/home/thaivodinh/Music/QMLTypes/TextInput/build/CMakeFiles/ExeTextInput_autogen.dir
